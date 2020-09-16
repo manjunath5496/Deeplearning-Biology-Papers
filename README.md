@@ -29,9 +29,9 @@
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Deeplearning-Biology-Papers/blob/master/dlb(15).pdf" style="text-decoration:none;">Deep Artificial Neural Networks and Neuromorphic Chips for Big Data Analysis: Pharmaceutical and Bioinformatics Applications</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deeplearning-Biology-Papers/blob/master/dlb(16).pdf" style="text-decoration:none;">Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deeplearning-Biology-Papers/blob/master/dlb(16).PDF" style="text-decoration:none;">Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deeplearning-Biology-Papers/blob/master/dlb(17).pdf" style="text-decoration:none;">Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deeplearning-Biology-Papers/blob/master/dlb(17).PDF" style="text-decoration:none;">Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Deeplearning-Biology-Papers/blob/master/dlb(18).pdf" style="text-decoration:none;">Deep learning for computational biology</a></li> 
 
